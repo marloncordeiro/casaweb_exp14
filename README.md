@@ -15,5 +15,7 @@
 - Otimizado para uso com o Home Assitant
 - MQTT Dicovery - O Home Assistant reconhece automaticamente a placa sem a necessidade de adicionar as configurações no configuration.yaml
 
+![alt text](https://github.com/marloncordeiro/casaweb14esp12e/blob/master/casaweb_ext14.jpeg)
+
 
 
