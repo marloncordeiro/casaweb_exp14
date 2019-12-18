@@ -1,4 +1,4 @@
-# CasaWeb ext14
+# CasaWeb exp14
 ## Sistema de automação residencial
 
 ### ESPECIFICAÇÕES DE HARDWARE:
